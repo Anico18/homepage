@@ -49,6 +49,11 @@
     padding-bottom: 30px;
     margin-bottom: 15px;
   }
+
+  li {
+    text-align: justify;
+    text-justify: inter-word;
+  }
   
   @media screen and (max-width: 576px) {
     .main-info,
